@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9972f636-6685-474d-97f9-4f10493472fc" name="Changes" comment="added: minchange (dyprog and recursive)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShubhangiXD&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="75167e3e-8777-4435-8aef-fa1ff6ea1f84" />
+        <option name="url" value="https://github.com/ShubhangiXD/Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZQss1IgHyustxWFzzDNHyTF1mx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.minchange_dp.executor": "Run",
+    "Application.minchange_recursive.executor": "Run",
+    "Application.sumpossible_dp.executor": "Run",
+    "Application.sumpossible_recursive.executor": "Run",
+    "Application.tribonacci_dp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/KIIT/Desktop/Java/Dynamic Programming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9972f636-6685-474d-97f9-4f10493472fc" name="Changes" comment="" />
+      <created>1702365842889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702365842889</updated>
+      <workItem from="1702365844099" duration="251000" />
+      <workItem from="1702366109568" duration="5260000" />
+    </task>
+    <task id="LOCAL-00001" summary="added: tribonacci using dp">
+      <option name="closed" value="true" />
+      <created>1702366441942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702366441942</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deleted: .class files">
+      <option name="closed" value="true" />
+      <created>1702366665361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702366665361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added: sum possible (recur and dp)">
+      <option name="closed" value="true" />
+      <created>1702369001140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702369001140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modified: sumpossible and fibonacci">
+      <option name="closed" value="true" />
+      <created>1702369192954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702369192954</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modified: sumpossible and fibonacci">
+      <option name="closed" value="true" />
+      <created>1702372163062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702372163062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added: minchange (dyprog and recursive)">
+      <option name="closed" value="true" />
+      <created>1702372217733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702372217734</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added: minchange (dyprog and recursive)">
+      <option name="closed" value="true" />
+      <created>1702372238954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702372238954</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added: tribonacci using dp" />
+    <MESSAGE value="deleted: .class files" />
+    <MESSAGE value="added: sum possible (recur and dp)" />
+    <MESSAGE value="modified: sumpossible and fibonacci" />
+    <MESSAGE value="added: minchange (dyprog and recursive)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added: minchange (dyprog and recursive)" />
+  </component>
+</project>
