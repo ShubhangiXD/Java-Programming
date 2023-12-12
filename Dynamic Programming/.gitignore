@@ -8,6 +8,8 @@
 *.jar
 *.war
 *.ear
+*.xml
+*.iml
 
 # IDE files
 .idea/
