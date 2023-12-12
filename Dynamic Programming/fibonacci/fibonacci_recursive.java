@@ -1,3 +1,5 @@
+package fibonacci;
+
 class fibonacci_recursive {
     public static int fib(int n) {
         if (n == 1 || n == 0)
