@@ -14,8 +14,4 @@ public class climbingStairs {
         memo.put(n, count);
         return count;
     }
-
-    public static void main(String[] args) {
-        System.out.println(climbStairs(4));
-    }
 }

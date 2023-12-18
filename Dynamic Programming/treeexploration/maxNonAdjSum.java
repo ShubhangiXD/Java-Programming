@@ -1,8 +1,6 @@
 package treeexploration;
-
 import java.util.HashMap;
 import java.util.List;
-import java.util.Arrays;
 
 public class maxNonAdjSum {
     public static int nonAdjSum(List<Integer> nums) {
@@ -16,10 +14,5 @@ public class maxNonAdjSum {
                 nonAdjSum(nums, i + 1, memo));
         memo.put(i, maxSum);
         return maxSum;
-    }
-
-    public static void main(String[] args) {
-        List<Integer> nums = Arrays.asList(3, 4, 6, 8, 2, 7);
-        System.out.println(nonAdjSum(nums));
     }
 }
